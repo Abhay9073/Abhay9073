@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Abhay Dadwal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(AI+%26+ML)+Student;AI%2FML+Enthusiast;Web+Developer;Embedded+Systems+Explorer;Building+Ideas+into+Projects+%F0%9F%9A%80" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(AI+%26+ML)+Student;AI%2FML+Enthusiast;Web+Developer;Computer+Vision+Explorer;Embedded+Systems+Builder;Turning+Ideas+into+Intelligent+Projects+%F0%9F%A4%96" alt="Animated typing text" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhay9073&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhay9073&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -14,83 +14,80 @@
   <a href="https://github.com/Abhay9073"><img src="https://img.shields.io/badge/GitHub-Abhay9073-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-### 🚀 B.Tech CSE (AI & ML) Student | AI/ML Enthusiast | Developer
-
-I'm a Computer Science student at **Lovely Professional University, Phagwara**, passionate about building practical projects with **Artificial Intelligence, Machine Learning, Web Development, and Embedded Systems**.
-
-I enjoy turning ideas into working projects, learning new technologies, and continuously improving my problem-solving skills.
-
 ---
 
-## 🧠 About Me
+## 🧠 AI × ML × CSE
 
-- 🎓 B.Tech in Computer Science & Engineering — **AI & ML**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🌐 Building projects with **HTML, CSS & JavaScript**
-- 🔧 Exploring **Arduino, ESP32 & embedded systems**
-- 🧩 Interested in computer vision and intelligent systems
-- 📚 Currently learning and improving my development skills
+> **Learning → Experimenting → Building → Improving**
 
----
+I'm a **B.Tech CSE (AI & ML) student at Lovely Professional University, Phagwara**, exploring how intelligent systems can solve practical problems.
 
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,arduino&perline=9" alt="Technology icons" />
+</p>
 
-**Languages & Web**
+### 🔬 My AI/ML Learning Track
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI / ML & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Area | Exploring |
+|---|---|
+| 🐍 Programming | Python • C • C++ |
+| 🤖 Machine Learning | Supervised • Unsupervised • Model Evaluation |
+| 🧠 Deep Learning | Neural Networks • Computer Vision |
+| 👁️ Computer Vision | Image/Object Detection Concepts |
+| 💬 NLP | Text Processing • Language Models Concepts |
+| 📊 Data | Data Preprocessing • Algorithms • Visualization |
+| ⚙️ Intelligent Systems | AI + Embedded Systems |
+| 🌐 Development | HTML • CSS • JavaScript |
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### 🏫 School Website
+**Frontend Development • JavaScript • Responsive UI**
+
+A responsive school website created with **HTML, CSS and JavaScript**, including navigation, courses, contact form, validation, hover effects and interactive elements.
+
+<p>
   <a href="https://github.com/Abhay9073/School-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay9073&repo=School-Website&theme=tokyonight&hide_border=true" alt="School Website project" />
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-%E2%86%92-0e75b6?style=for-the-badge" alt="View School Website project" />
   </a>
 </p>
-
-### 🏫 School Website
-**Responsive Frontend • JavaScript • UI Design**
-
-A responsive school website built with **HTML, CSS and JavaScript**. Includes navigation, school information, courses, contact form, hover effects and JavaScript validation.
-
-**Highlights**
-- 📱 Responsive layout
-- 🎨 Clean blue/white UI
-- 📝 Contact form with validation
-- ⚡ Interactive JavaScript features
-
-[**View Repository →**](https://github.com/Abhay9073/School-Website)
 
 ---
 
 ### 👁️ Animatronic Eye
 **Computer Vision • Embedded Systems • Servo Control**
 
-A hardware-focused project exploring an **animatronic eye** using Arduino/ESP32, servo motors and joystick input, with object-detection-based movement as a key concept.
+A hardware project exploring an **animatronic eye** using Arduino/ESP32, servo motors and joystick input, with object-detection-based movement as a key concept.
+
+**Project concept**
+
+`Object → Detection → Direction → Servo Movement → Human-like Eye Response`
 
 **Highlights**
 - 👁️ Human-like eye movement concept
 - 🎮 Joystick control
 - 🔧 Servo motor control
 - 📷 Object-detection integration concept
-
-**Focus:** Computer Vision • Embedded Systems • Intelligent Hardware
+- ⚡ AI + hardware experimentation
 
 ---
 
+### 🤖 AI/ML Project Lab
+**Next Build → Learning by Doing**
+
+A dedicated space for upcoming AI/ML experiments covering:
+- 🧹 Data preprocessing
+- 📈 Exploratory data analysis
+- 🤖 Classification & regression
+- 🧠 Neural-network fundamentals
+- 👁️ Computer-vision experiments
+- 💬 NLP experiments
+- 🚀 Model deployment concepts
+
 <p align="center">
-  <b>🚧 More projects coming soon...</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Loading+AI%2FML+ideas...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Training+skills...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Building+the+next+project...+%E2%96%88%E2%96%88%E2%96%91%E2%96%91;Stay+tuned+%F0%9F%9A%80" alt="Animated AI ML project lab" />
 </p>
 
 ---
@@ -100,8 +97,6 @@ A hardware-focused project exploring an **animatronic eye** using Arduino/ESP32,
 ![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay9073&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay9073&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🔥 GitHub Streak
 
@@ -117,18 +112,20 @@ A hardware-focused project exploring an **animatronic eye** using Arduino/ESP32,
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Learning Mission
 
-- Build more **AI/ML projects**
-- Improve **Python & machine-learning skills**
-- Develop practical **computer-vision applications**
-- Create polished and useful software projects
-- Keep learning, experimenting and building 🚀
+- 🤖 Build practical **AI/ML projects**
+- 🐍 Strengthen **Python + ML fundamentals**
+- 👁️ Explore **Computer Vision**
+- 🧠 Learn **Deep Learning & Neural Networks**
+- 💬 Explore **NLP and modern AI concepts**
+- ⚙️ Combine **AI with embedded systems**
+- 🚀 Turn coursework into portfolio-ready projects
 
 ---
 
-### 💡 "Learn. Build. Improve. Repeat."
+### 💡 Learn. Build. Improve. Repeat.
 
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  <b>🚀 Building my skills one intelligent project at a time.</b>
 </p>
