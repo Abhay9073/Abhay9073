@@ -1,6 +1,6 @@
 <!-- 🌌 COSMIC PROFILE HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111b4d,100:6d5dfc&height=180&section=header&text=ABHAY%20DADWAL&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Embedded%20Systems&descSize=16&descAlignY=60" width="100%" alt="Animated cosmic header" />
+  <img src="https://raw.githubusercontent.com/Abhay9073/Abhay9073/main/assets/profile-hero.svg" width="100%" alt="Abhay Dadwal GitHub profile hero" />
 </p>
 
 <p align="center">
