@@ -8,6 +8,18 @@
   <img src="https://komarev.com/ghpvc/?username=Abhay9073&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-dadwal-5001a9322/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abhaydadwal324@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Abhay9073">
+    <img src="https://img.shields.io/badge/GitHub-Abhay9073-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 ### 🚀 B.Tech CSE (AI & ML) Student | AI/ML Enthusiast | Developer
 
 I'm a Computer Science student at **Lovely Professional University, Phagwara**, passionate about building practical projects with **Artificial Intelligence, Machine Learning, Web Development, and Embedded Systems**.
