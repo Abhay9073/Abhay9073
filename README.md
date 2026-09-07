@@ -19,6 +19,10 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-strip.svg" width="100%" alt="Animated space background" /></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhay9073/space/main/mission-control.svg" width="100%" alt="Animated AI ML mission control showing Abhay9073 skills" />
+</p>
+
 ---
 
 ## 🌌 AI × ML × CSE — Mission Control
@@ -30,6 +34,16 @@ I'm a **B.Tech CSE (AI & ML) student at Lovely Professional University, Phagwara
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,arduino&perline=9" alt="Technology icons" />
 </p>
+
+### 🧭 My Profile at a Glance
+
+| | |
+|---|---|
+| 🎓 Education | B.Tech CSE — AI & ML, Lovely Professional University |
+| 📊 CGPA | 8.03 |
+| 🧪 Training | Data Science using Python — Cipher Schools |
+| 💡 Focus | AI/ML • Computer Vision • Embedded Systems |
+| 🧩 Building | Animatronic Eye • Online Banking System • Web Projects |
 
 ### 🔬 AI/ML Learning Track
 
@@ -68,6 +82,17 @@ A hardware project exploring an **animatronic eye** using Arduino/ESP32, servo m
 - 🔧 Servo motor control
 - 📷 Object-detection integration concept
 - ⚡ AI + hardware experimentation
+
+**Project story:** Sensor/Input → Processing → Decision → Actuator → Response
+
+---
+
+### 🏦 Online Banking System
+**HTML5 • CSS3 • JavaScript • SQL • MySQL**
+
+A project designed to simulate real-world banking operations including registration/login, account management, deposits, withdrawals, fund transfers and transaction tracking. The project applies DBMS concepts such as keys, normalization, relationships, constraints and transaction handling.
+
+<p><a href="https://github.com/Abhay9073/Online-Banking-System"><img src="https://img.shields.io/badge/VIEW_PROJECT-%E2%86%92-0e75b6?style=for-the-badge" alt="View Online Banking System project" /></a></p>
 
 ---
 
@@ -165,6 +190,27 @@ Upcoming experiments across:
 - 🚀 Model deployment concepts
 
 ---
+
+---
+
+## 🧪 Training & Certifications
+
+### 📊 Data Science using Python — Cipher Schools
+**Jun 2023 – Jul 2023**
+
+- Exploratory Data Analysis using **NumPy and Pandas**
+- Machine Learning with **Linear Regression, KNN, SVM, Decision Trees, K-Means and Ensemble Methods**
+- Feature engineering and model evaluation
+
+### 🏅 Certificates
+
+| Certificate | Platform | Date |
+|---|---|---|
+| Introduction to Artificial Intelligence | Coursera | Apr 2024 |
+| C | Neobrowser | Jan 2024 |
+| DBMS | Codetantra | Jan 2023 |
+| Python | Codetantra | Aug 2023 |
+| Leadership Fundamentals | — | Oct 2029 |
 
 ## 🪐 Cosmic GitHub Activity
 
