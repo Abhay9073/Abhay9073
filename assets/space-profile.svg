@@ -5,9 +5,9 @@
   <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1200" height="420" rx="20" fill="url(#bg)"/>
-<ellipse cx="250" cy="100" rx="330" ry="180" fill="url(#neb)"/>
+<ellipse cx="250" cy="100" rx="330" ry="180" fill="url(#neb)"><animate attributeName="opacity" values=".55;1;.55" dur="7s" repeatCount="indefinite"/></ellipse>
 <ellipse cx="930" cy="300" rx="360" ry="190" fill="url(#neb)"/>
-<g fill="#fff" filter="url(#glow)">
+<g fill="#fff" filter="url(#glow)"><animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/>
   <circle cx="55" cy="65" r="2"/><circle cx="135" cy="180" r="1.5"/><circle cx="210" cy="45" r="1"/><circle cx="310" cy="125" r="2"/>
   <circle cx="400" cy="60" r="1.5"/><circle cx="505" cy="165" r="1"/><circle cx="590" cy="50" r="2"/><circle cx="680" cy="120" r="1.4"/>
   <circle cx="760" cy="65" r="1"/><circle cx="845" cy="175" r="2"/><circle cx="1010" cy="75" r="1.5"/><circle cx="1135" cy="145" r="2"/>
