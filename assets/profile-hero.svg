@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260">
+<defs>
+ <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080b17"/><stop offset="1" stop-color="#0d1223"/></linearGradient>
+ <linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#dce5ff"/><stop offset="1" stop-color="#f2f5ff"/></linearGradient>
+</defs>
+<rect width="900" height="260" fill="url(#b)"/>
+<path d="M0 2H900" stroke="#6675d9" stroke-width="2"/>
+<circle cx="18" cy="132" r="102" fill="none" stroke="#6675d9" stroke-width="4"/>
+<circle cx="18" cy="132" r="82" fill="#12172a" stroke="#91a0ff" stroke-width="2"/>
+<path d="M-58 132h152M18 50v164M-40 74l116 116M-40 190L76 74" stroke="#d64fd9" stroke-width="30" opacity=".9"/>
+<text x="110" y="72" fill="#aab9ee" font-family="monospace" font-size="20" font-weight="700" letter-spacing="4">@Abhay9073</text>
+<path d="M110 91 C260 54 380 58 520 82 C610 97 690 85 780 67" fill="none" stroke="#414a78" stroke-width="3"/>
+<text x="110" y="160" fill="url(#t)" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800">Abhay9073</text>
+<text x="112" y="201" fill="#b6c1df" font-family="Arial, Helvetica, sans-serif" font-size="21">Building with HTML on GitHub.</text>
+</svg>
