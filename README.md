@@ -1,6 +1,6 @@
 <!-- 🌌 COSMIC PROFILE HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay9073/Abhay9073/main/assets/profile-hero.svg" width="100%" alt="Abhay9073 GitHub profile banner" />
+  <img src="https://raw.githubusercontent.com/Abhay9073/Abhay9073/main/assets/space-profile.svg" width="100%" alt="Animated space themed Abhay9073 GitHub profile" />
 </p>
 
 <p align="center">
