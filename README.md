@@ -45,7 +45,7 @@ I'm a **B.Tech CSE (AI & ML) student at Lovely Professional University, Phagwara
 | | |
 |---|---|
 | 🎓 Education | B.Tech CSE — AI & ML, Lovely Professional University |
-| 📊 CGPA | 8.03 |
+| 📊 CGPA | 8.03 | 2nd Year Going on...
 | 🧪 Training | Data Science using Python — Cipher Schools |
 | 💡 Focus | AI/ML • Computer Vision • Embedded Systems |
 | 🧩 Building | Animatronic Eye • Online Banking System • Web Projects |
