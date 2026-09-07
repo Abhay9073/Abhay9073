@@ -1,7 +1,14 @@
-# 👋 Hi, I'm Abhay Dadwal
+<!-- 🌌 COSMIC PROFILE HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:111b4d,100:6d5dfc&height=180&section=header&text=ABHAY%20DADWAL&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20Embedded%20Systems&descSize=16&descAlignY=60" width="100%" alt="Animated cosmic header" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(AI+%26+ML)+Student;AI%2FML+Enthusiast;Web+Developer;Computer+Vision+Explorer;Embedded+Systems+Builder;Turning+Ideas+into+Intelligent+Projects+%F0%9F%A4%96" alt="Animated typing text" />
+  <img src="https://www.gitskins.com/api/section/hero?username=Abhay9073&theme=midnight&style=aura" width="100%" alt="Animated GitHub cosmic profile" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=8BE9FD&center=true&vCenter=true&width=760&lines=AI%2FML+Explorer+%F0%9F%A4%96;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Embedded+Systems+Builder+%E2%9A%99%EF%B8%8F;Exploring+the+intersection+of+AI+%2B+Hardware+%F0%9F%9A%80;Building+my+next+project...+%F0%9F%8C%8C" alt="Animated cosmic typing text" />
 </p>
 
 <p align="center">
@@ -16,32 +23,47 @@
 
 ---
 
-## 🧠 AI × ML × CSE
+## 🌌 AI × ML × CSE — Mission Control
 
 > **Learning → Experimenting → Building → Improving**
 
-I'm a **B.Tech CSE (AI & ML) student at Lovely Professional University, Phagwara**, exploring how intelligent systems can solve practical problems.
+I'm a **B.Tech CSE (AI & ML) student at Lovely Professional University, Phagwara**, exploring intelligent systems, computer vision, machine learning and the connection between AI and hardware.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,arduino&perline=9" alt="Technology icons" />
 </p>
 
-### 🔬 My AI/ML Learning Track
+### 🔬 AI/ML Learning Track
 
-| Area | Exploring |
+| 🛰️ Sector | 🧠 Exploring |
 |---|---|
 | 🐍 Programming | Python • C • C++ |
 | 🤖 Machine Learning | Supervised • Unsupervised • Model Evaluation |
 | 🧠 Deep Learning | Neural Networks • Computer Vision |
 | 👁️ Computer Vision | Image/Object Detection Concepts |
-| 💬 NLP | Text Processing • Language Models Concepts |
-| 📊 Data | Data Preprocessing • Algorithms • Visualization |
+| 💬 NLP | Text Processing • Language Model Concepts |
+| 📊 Data | Preprocessing • Algorithms • Visualization |
 | ⚙️ Intelligent Systems | AI + Embedded Systems |
 | 🌐 Development | HTML • CSS • JavaScript |
 
 ---
 
 ## 🚀 Featured Projects
+
+### 👁️ Animatronic Eye
+**Computer Vision • Embedded Systems • Servo Control**
+
+A hardware project exploring an **animatronic eye** using Arduino/ESP32, servo motors and joystick input, with object-detection-based movement as a key concept.
+
+`Object → Detection → Direction → Servo Movement → Human-like Eye Response`
+
+- 👁️ Human-like eye movement concept
+- 🎮 Joystick control
+- 🔧 Servo motor control
+- 📷 Object-detection integration concept
+- ⚡ AI + hardware experimentation
+
+---
 
 ### 🏫 School Website
 **Frontend Development • JavaScript • Responsive UI**
@@ -56,28 +78,10 @@ A responsive school website created with **HTML, CSS and JavaScript**, including
 
 ---
 
-### 👁️ Animatronic Eye
-**Computer Vision • Embedded Systems • Servo Control**
-
-A hardware project exploring an **animatronic eye** using Arduino/ESP32, servo motors and joystick input, with object-detection-based movement as a key concept.
-
-**Project concept**
-
-`Object → Detection → Direction → Servo Movement → Human-like Eye Response`
-
-**Highlights**
-- 👁️ Human-like eye movement concept
-- 🎮 Joystick control
-- 🔧 Servo motor control
-- 📷 Object-detection integration concept
-- ⚡ AI + hardware experimentation
-
----
-
 ### 🤖 AI/ML Project Lab
 **Next Build → Learning by Doing**
 
-A dedicated space for upcoming AI/ML experiments covering:
+Upcoming experiments across:
 - 🧹 Data preprocessing
 - 📈 Exploratory data analysis
 - 🤖 Classification & regression
@@ -87,16 +91,20 @@ A dedicated space for upcoming AI/ML experiments covering:
 - 🚀 Model deployment concepts
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Loading+AI%2FML+ideas...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Training+skills...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Building+the+next+project...+%E2%96%88%E2%96%88%E2%96%91%E2%96%91;Stay+tuned+%F0%9F%9A%80" alt="Animated AI ML project lab" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Initializing+AI+Lab...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Scanning+datasets...+%E2%96%88%E2%96%88%E2%96%91%E2%96%91;Training+new+skills...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Next+mission%3A+Computer+Vision+%F0%9F%91%81%EF%B8%8F" alt="Animated AI lab" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🪐 Cosmic GitHub Activity
 
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhay9073&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=Abhay9073&theme=midnight&style=jet" width="100%" alt="Animated cosmic GitHub activity" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay9073&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=Abhay9073&theme=midnight&style=aura" width="100%" alt="Animated GitHub stats" />
+</p>
 
 ## 🔥 GitHub Streak
 
@@ -124,8 +132,10 @@ A dedicated space for upcoming AI/ML experiments covering:
 
 ---
 
-### 💡 Learn. Build. Improve. Repeat.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d5dfc,50:111b4d,100:050816&height=120&section=footer&animation=twinkling" width="100%" alt="Animated cosmic footer" />
+</p>
 
 <p align="center">
-  <b>🚀 Building my skills one intelligent project at a time.</b>
+  <b>🌌 Learn. Build. Explore. Repeat. 🚀</b>
 </p>
