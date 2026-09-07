@@ -1,6 +1,6 @@
 <!-- 🌌 COSMIC PROFILE HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay9073/Abhay9073/main/assets/space-profile.svg" width="100%" alt="Animated space themed Abhay9073 GitHub profile" />
+  <img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-background.svg" width="100%" alt="Animated space themed Abhay9073 GitHub profile" />
 </p>
 
 <p align="center">
@@ -16,6 +16,8 @@
   <a href="mailto:abhaydadwal324@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Abhay9073"><img src="https://img.shields.io/badge/GitHub-Abhay9073-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-strip.svg" width="100%" alt="Animated space background" /></p>
 
 ---
 
@@ -41,6 +43,8 @@ I'm a **B.Tech CSE (AI & ML) student at Lovely Professional University, Phagwara
 | 📊 Data | Preprocessing • Algorithms • Visualization |
 | ⚙️ Intelligent Systems | AI + Embedded Systems |
 | 🌐 Development | HTML • CSS • JavaScript |
+
+<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-strip.svg" width="100%" alt="Animated space background" /></p>
 
 ---
 
@@ -77,6 +81,8 @@ A responsive school website created with **HTML, CSS and JavaScript**, including
     <img src="https://img.shields.io/badge/VIEW_PROJECT-%E2%86%92-0e75b6?style=for-the-badge" alt="View School Website project" />
   </a>
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-strip.svg" width="100%" alt="Animated space background" /></p>
 
 ---
 
@@ -140,6 +146,8 @@ An interactive dashboard for loading a dataset, exploring it visually, training 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Next+mission%3A+Build+%E2%86%92+Test+%E2%86%92+Deploy+%F0%9F%9A%80;AI%2FML+lab+is+loading...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Computer+Vision+%2B+AI+%2B+Hardware+%F0%9F%91%81%EF%B8%8F" alt="Animated AI ML roadmap" />
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-strip.svg" width="100%" alt="Animated space background" /></p>
 
 ---
 
