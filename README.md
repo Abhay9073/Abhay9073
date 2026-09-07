@@ -70,6 +70,14 @@ An embedded-systems project exploring an **animatronic eye** controlled using ha
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abhay9073&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 ## 🐍 Contribution Animation
 
 ![Snake animation](https://raw.githubusercontent.com/Abhay9073/Abhay9073/output/github-contribution-grid-snake.svg)
