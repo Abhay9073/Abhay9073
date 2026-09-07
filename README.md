@@ -53,6 +53,12 @@ I'm a **B.Tech CSE (AI & ML) student at Lovely Professional University, Phagwara
 ### 👁️ Animatronic Eye
 **Computer Vision • Embedded Systems • Servo Control**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhay9073/Abhay9073/main/assets/animatronic-eye.svg" width="760" alt="Animated 3D animatronic eye — moving pupil and blinking eyelids" />
+</p>
+
+> **Interactive concept:** a futuristic 3D eye visual with a moving pupil, blinking eyelids, scan line and sci-fi AI/hardware styling.
+
 A hardware project exploring an **animatronic eye** using Arduino/ESP32, servo motors and joystick input, with object-detection-based movement as a key concept.
 
 `Object → Detection → Direction → Servo Movement → Human-like Eye Response`
