@@ -1,6 +1,6 @@
 <!-- 🌌 COSMIC PROFILE HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-background.svg" width="100%" alt="Animated space themed Abhay9073 GitHub profile" />
+  <img src="https://raw.githubusercontent.com/Abhay9073/space/main/neural-lab.svg" width="100%" alt="Animated space themed Abhay9073 GitHub profile" />
 </p>
 
 <p align="center">
@@ -12,12 +12,17 @@
 </p>
 
 <p align="center">
+  <a href="https://abhaydadwal19.vercel.app/"><img src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20MY%20PORTFOLIO-AbhayDadwal19-7c3aed?style=for-the-badge&labelColor=050816" alt="Explore Abhay Dadwal portfolio" /></a>
+</p>
+
+
+<p align="center">
   <a href="https://www.linkedin.com/in/abhay-dadwal-5001a9322/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:abhaydadwal324@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Abhay9073"><img src="https://img.shields.io/badge/GitHub-Abhay9073-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-strip.svg" width="100%" alt="Animated space background" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/neural-lab.svg" width="100%" alt="Animated space background" /></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhay9073/space/main/mission-control.svg" width="100%" alt="Animated AI ML mission control showing Abhay9073 skills" />
@@ -58,7 +63,7 @@ I'm a **B.Tech CSE (AI & ML) student at Lovely Professional University, Phagwara
 | ⚙️ Intelligent Systems | AI + Embedded Systems |
 | 🌐 Development | HTML • CSS • JavaScript |
 
-<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-strip.svg" width="100%" alt="Animated space background" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/neural-lab.svg" width="100%" alt="Animated space background" /></p>
 
 ---
 
@@ -68,10 +73,10 @@ I'm a **B.Tech CSE (AI & ML) student at Lovely Professional University, Phagwara
 **Computer Vision • Embedded Systems • Servo Control**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhay9073/Abhay9073/main/assets/animatronic-eye.svg" width="760" alt="Animated 3D animatronic eye — moving pupil and blinking eyelids" />
+  <img src="https://raw.githubusercontent.com/Abhay9073/space/main/animatronic-eye-v2.svg" width="760" alt="Modern 3D animatronic eye with blinking eyelids and animated iris" />
 </p>
 
-> **Interactive concept:** a futuristic 3D eye visual with a moving pupil, blinking eyelids, scan line and sci-fi AI/hardware styling.
+> **Interactive concept:** a cybernetic 3D animatronic eye with mechanical eyelids, rotating iris rings, pupil tracking and an automated blink cycle.
 
 A hardware project exploring an **animatronic eye** using Arduino/ESP32, servo motors and joystick input, with object-detection-based movement as a key concept.
 
@@ -107,7 +112,7 @@ A responsive school website created with **HTML, CSS and JavaScript**, including
   </a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-strip.svg" width="100%" alt="Animated space background" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/neural-lab.svg" width="100%" alt="Animated space background" /></p>
 
 ---
 
@@ -172,7 +177,7 @@ An interactive dashboard for loading a dataset, exploring it visually, training 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Next+mission%3A+Build+%E2%86%92+Test+%E2%86%92+Deploy+%F0%9F%9A%80;AI%2FML+lab+is+loading...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Computer+Vision+%2B+AI+%2B+Hardware+%F0%9F%91%81%EF%B8%8F" alt="Animated AI ML roadmap" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/space-strip.svg" width="100%" alt="Animated space background" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Abhay9073/space/main/neural-lab.svg" width="100%" alt="Animated space background" /></p>
 
 ---
 
