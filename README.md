@@ -1,6 +1,6 @@
 <!-- 🌌 COSMIC PROFILE HEADER -->
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=Abhay9073&theme=midnight&style=aura" width="100%" alt="Animated GitHub cosmic profile" />
+  <img src="https://raw.githubusercontent.com/Abhay9073/Abhay9073/main/assets/profile-hero.svg" width="100%" alt="Abhay9073 GitHub profile banner" />
 </p>
 
 <p align="center">
