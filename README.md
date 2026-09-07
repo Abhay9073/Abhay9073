@@ -9,15 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhay-dadwal-5001a9322/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abhaydadwal324@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Abhay9073">
-    <img src="https://img.shields.io/badge/GitHub-Abhay9073-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/abhay-dadwal-5001a9322/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:abhaydadwal324@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Abhay9073"><img src="https://img.shields.io/badge/GitHub-Abhay9073-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ### 🚀 B.Tech CSE (AI & ML) Student | AI/ML Enthusiast | Developer
@@ -42,7 +36,7 @@ I enjoy turning ideas into working projects, learning new technologies, and cont
 ## 🛠️ Tech Stack
 
 **Languages & Web**
-  
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -57,20 +51,47 @@ I enjoy turning ideas into working projects, learning new technologies, and cont
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Abhay9073/School-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhay9073&repo=School-Website&theme=tokyonight&hide_border=true" alt="School Website project" />
+  </a>
+</p>
 
 ### 🏫 School Website
-A responsive school website built using **HTML, CSS and JavaScript**, featuring navigation, school information, courses, a contact form, hover effects and JavaScript form validation.
+**Responsive Frontend • JavaScript • UI Design**
 
-👉 [View Project](https://github.com/Abhay9073/School-Website)
+A responsive school website built with **HTML, CSS and JavaScript**. Includes navigation, school information, courses, contact form, hover effects and JavaScript validation.
+
+**Highlights**
+- 📱 Responsive layout
+- 🎨 Clean blue/white UI
+- 📝 Contact form with validation
+- ⚡ Interactive JavaScript features
+
+[**View Repository →**](https://github.com/Abhay9073/School-Website)
 
 ---
 
-## 👁️ Animatronic Eye
+### 👁️ Animatronic Eye
+**Computer Vision • Embedded Systems • Servo Control**
 
-An embedded-systems project exploring an **animatronic eye** controlled using hardware components such as Arduino/ESP32, servo motors and joystick input, with object-detection-based movement as a key concept.
+A hardware-focused project exploring an **animatronic eye** using Arduino/ESP32, servo motors and joystick input, with object-detection-based movement as a key concept.
 
-**Focus:** Computer Vision • Embedded Systems • Servo Control • Human-like Eye Movement
+**Highlights**
+- 👁️ Human-like eye movement concept
+- 🎮 Joystick control
+- 🔧 Servo motor control
+- 📷 Object-detection integration concept
+
+**Focus:** Computer Vision • Embedded Systems • Intelligent Hardware
+
+---
+
+<p align="center">
+  <b>🚧 More projects coming soon...</b>
+</p>
 
 ---
 
