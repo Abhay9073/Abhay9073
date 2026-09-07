@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Abhay Dadwal
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(AI+%26+ML)+Student;AI%2FML+Enthusiast;Web+Developer;Embedded+Systems+Explorer;Building+Ideas+into+Projects+%F0%9F%9A%80" alt="Animated typing text" />
+</p>
+
 ### 🚀 B.Tech CSE (AI & ML) Student | AI/ML Enthusiast | Developer
 
 I'm a Computer Science student at **Lovely Professional University, Phagwara**, passionate about building practical projects with **Artificial Intelligence, Machine Learning, Web Development, and Embedded Systems**.
