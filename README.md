@@ -84,7 +84,71 @@ A responsive school website created with **HTML, CSS and JavaScript**, including
 
 ---
 
-### 🤖 AI/ML Project Lab
+## 🧪 New AI/ML Builds — Coming Next
+
+> These are **planned portfolio projects**, not claimed as completed. I'll turn them into repositories as I build them.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 👁️ VisionGuard AI
+**Real-Time Computer Vision**
+
+A webcam-based system that detects selected objects and displays live bounding boxes and confidence scores.
+
+**Stack**
+- Python
+- OpenCV
+- YOLO
+- NumPy
+
+**Goal:** learn real-time detection, tracking and model evaluation.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 StudySense AI
+**AI Study Assistant**
+
+A student-focused assistant that can summarize notes, answer questions from provided material and organize study topics.
+
+**Stack**
+- Python
+- NLP
+- Embeddings
+- RAG concepts
+
+**Goal:** learn modern AI application architecture without pretending to have built a full LLM from scratch.
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 ML Insight Lab
+**Machine Learning Dashboard**
+
+An interactive dashboard for loading a dataset, exploring it visually, training baseline models and comparing evaluation metrics.
+
+**Stack**
+- Python
+- Pandas
+- Scikit-learn
+- Streamlit
+
+**Goal:** practice the complete ML workflow from data → model → evaluation → demo.
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Next+mission%3A+Build+%E2%86%92+Test+%E2%86%92+Deploy+%F0%9F%9A%80;AI%2FML+lab+is+loading...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Computer+Vision+%2B+AI+%2B+Hardware+%F0%9F%91%81%EF%B8%8F" alt="Animated AI ML roadmap" />
+</p>
+
+---
+
+## 🤖 AI/ML Project Lab
+
 **Next Build → Learning by Doing**
 
 Upcoming experiments across:
@@ -95,10 +159,6 @@ Upcoming experiments across:
 - 👁️ Computer-vision experiments
 - 💬 NLP experiments
 - 🚀 Model deployment concepts
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Initializing+AI+Lab...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Scanning+datasets...+%E2%96%88%E2%96%88%E2%96%91%E2%96%91;Training+new+skills...+%E2%96%88%E2%96%88%E2%96%88%E2%96%91;Next+mission%3A+Computer+Vision+%F0%9F%91%81%EF%B8%8F" alt="Animated AI lab" />
-</p>
 
 ---
 
